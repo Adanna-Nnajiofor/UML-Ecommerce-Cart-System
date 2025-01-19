@@ -15,3 +15,9 @@ This system is vital for creating seamless online shopping experiences, offering
 Below is the class diagram representing the key components of the E-Commerce Cart System:
 
 ![Class Diagram](./images/ClassDiagram.png)
+
+## Screenshot of my code
+
+Below is the screenshot of the UML of the E-Commerce Cart System successfully working on my terminal:
+
+![Class Diagram](./images/screenshoot%20of%20the%20UML%20on%20vscode.png)
