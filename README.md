@@ -20,4 +20,4 @@ Below is the class diagram representing the key components of the E-Commerce Car
 
 Below is the screenshot of the UML of the E-Commerce Cart System successfully working on my terminal:
 
-![Class Diagram](./images/screenshoot%20of%20the%20UML%20on%20vscode.png)
+![Screenshot](./images/screenshoot%20of%20the%20UML%20on%20vscode.png)
